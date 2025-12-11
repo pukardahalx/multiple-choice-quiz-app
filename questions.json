@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Who is widely regarded as the world's first programmer?",
+        "options": ["Alan Turing", "Ada Lovelace", "Charles Babbage", "Grace Hopper"],
+        "answer": "Ada Lovelace"
+    },
+    {
+        "question": "In which year was the first general-purpose electronic digital computer ENIAC completed?",
+        "options": ["1945", "1945", "1951", "1938"],
+        "answer": "1945"
+    },
+    {
+        "question": "What does the acronym 'CPU' stand for?",
+        "options": ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Control Processing Unit"],
+        "answer": "Central Processing Unit"
+    },
+    {
+        "question": "Which company developed the first commercially successful personal computer, the Altair 8800 (1975)?",
+        "options": ["Apple", "IBM", "MITS", "Microsoft"],
+        "answer": "MITS"
+    },
+    {
+        "question": "Who co-founded Microsoft with Bill Gates in 1975?",
+        "options": ["Steve Jobs", "Paul Allen", "Steve Wozniak", "Larry Ellison"],
+        "answer": "Paul Allen"
+    },
+    {
+        "question": "The Analytical Engine, designed in the 1830s, was intended to be powered by what?",
+        "options": ["Electricity", "Steam", "Water", "Clockwork"],
+        "answer": "Steam"
+    },
+    {
+        "question": "Which pioneer invented the World Wide Web in 1989 while working at CERN?",
+        "options": ["Tim Berners-Lee", "Vint Cerf", "Robert Kahn", "Marc Andreessen"],
+        "answer": "Tim Berners-Lee"
+    },
+    {
+        "question": "What was the name of the first Apple computer released in 1976?",
+        "options": ["Apple I", "Macintosh", "Lisa", "iMac"],
+        "answer": "Apple I"
+    },
+    {
+        "question": "In which year was the IBM PC released?",
+        "options": ["1979", "1981", "1984", "1985"],
+        "answer": "1981"
+    },
+    {
+        "question": "Which company released the first successful graphical user interface with the Xerox Alto in 1973?",
+        "options": ["Apple", "Microsoft", "Xerox PARC", "IBM"],
+        "answer": "Xerox PARC"
+    },
+    {
+        "question": "Who invented the computer mouse in 1964?",
+        "options": ["Alan Kay", "Douglas Engelbart", "Steve Jobs", "Jef Raskin"],
+        "answer": "Douglas Engelbart"
+    },
+    {
+        "question": "What does 'GUI' stand for?",
+        "options": ["Graphical User Interface", "General User Input", "Global User Internet", "Graphic Utility Interface"],
+        "answer": "Graphical User Interface"
+    },
+    {
+        "question": "Which programming language was created by Dennis Ritchie at Bell Labs in 1972?",
+        "options": ["Python", "Java", "C", "Pascal"],
+        "answer": "C"
+    },
+    {
+        "question": "The first computer 'bug' was an actual insect stuck in a relay. In which computer was it found in 1947?",
+        "options": ["Harvard Mark II", "ENIAC", "UNIVAC I", "Colossus"],
+        "answer": "Harvard Mark II"
+    },
+    {
+        "question": "What does RAM stand for?",
+        "options": ["Read Access Memory", "Random Access Memory", "Run Access Memory", "Rapid Action Memory"],
+        "answer": "Random Access Memory"
+    },
+    {
+        "question": "Which is NOT a type of secondary storage?",
+        "options": ["SSD", "HDD", "RAM", "USB Flash Drive"],
+        "answer": "RAM"
+    },
+    {
+        "question": "In binary, what is the decimal value of 1010?",
+        "options": ["8", "10", "12", "16"],
+        "answer": "10"
+    },
+    {
+        "question": "How many bytes are in one kilobyte (KB)?",
+        "options": ["1000", "1024", "256", "8"],
+        "answer": "1024"
+    },
+    {
+        "question": "Which logic gate outputs true only when both inputs are true?",
+        "options": ["OR", "AND", "NOT", "XOR"],
+        "answer": "AND"
+    },
+    {
+        "question": "What does 'OS' stand for in computing?",
+        "options": ["Open Software", "Operating System", "Online Service", "Output Screen"],
+        "answer": "Operating System"
+    },
+    {
+        "question": "Which was the first widely-used disk operating system by Microsoft?",
+        "options": ["Windows 1.0", "MS-DOS", "CP/M", "Unix"],
+        "answer": "MS-DOS"
+    },
+    {
+        "question": "Who is known as the father of modern computer science for his work on the Turing Machine?",
+        "options": ["John von Neumann", "Alan Turing", "Konrad Zuse", "Claude Shannon"],
+        "answer": "Alan Turing"
+    },
+    {
+        "question": "What was the name of the first search engine on the internet?",
+        "options": ["Google", "Archie", "Yahoo!", "AltaVista"],
+        "answer": "Archie"
+    },
+    {
+        "question": "Which company created the floppy disk in the early 1970s?",
+        "options": ["IBM", "Apple", "Intel", "Microsoft"],
+        "answer": "IBM"
+    },
+    {
+        "question": "In which year was the first email sent?",
+        "options": ["1969", "1971", "1975", "1980"],
+        "answer": "1971"
+    },
+    {
+        "question": "What does URL stand for?",
+        "options": ["Universal Resource Locator", "Uniform Resource Locator", "Universal Reference Link", "User Resource Language"],
+        "answer": "Uniform Resource Locator"
+    },
+    {
+        "question": "Which programming language was developed by Guido van Rossum and first released in 1991?",
+        "options": ["Java", "C++", "Python", "Ruby"],
+        "answer": "Python"
+    },
+    {
+        "question": "The von Neumann architecture describes a design where instructions and data share the same:",
+        "options": ["Memory space", "CPU", "Hard drive", "Cache"],
+        "answer": "Memory space"
+    },
+    {
+        "question": "Which generation of computers used transistors instead of vacuum tubes?",
+        "options": ["First", "Second", "Third", "Fourth"],
+        "answer": "Second"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "options": ["HyperText Transfer Protocol", "High Transfer Text Protocol", "Hyper Transfer Text Program", "Host Text Transfer Protocol"],
+        "answer": "HyperText Transfer Protocol"
+    },
+    {
+        "question": "Who invented the integrated circuit (IC) in 1958–1959?",
+        "options": ["Jack Kilby & Robert Noyce", "Gordon Moore", "Bill Gates", "Ted Hoff"],
+        "answer": "Jack Kilby & Robert Noyce"
+    },
+    {
+        "question": "Which computer beat Garry Kasparov in chess in 1997?",
+        "options": ["Deep Thought", "Deep Blue", "Watson", "AlphaGo"],
+        "answer": "Deep Blue"
+    },
+    {
+        "question": "What does SSD stand for?",
+        "options": ["Solid State Drive", "Super Speed Disk", "Static Storage Device", "System Storage Drive"],
+        "answer": "Solid State Drive"
+    },
+    {
+        "question": "Which was the first company to release a smartphone with a touchscreen (IBM Simon, 1994)?",
+        "options": ["Apple", "IBM", "Nokia", "BlackBerry"],
+        "answer": "IBM"
+    },
+    {
+        "question": "Which protocol is used to send emails?",
+        "options": ["HTTP", "FTP", "SMTP", "TCP"],
+        "answer": "SMTP"
+    },
+    {
+        "question": "What does BIOS stand for?",
+        "options": ["Basic Input/Output System", "Binary Input/Output System", "Boot Initial Operating System", "Base Internet Operating System"],
+        "answer": "Basic Input/Output System"
+    },
+    {
+        "question": "Who developed the first mechanical calculator called the Pascaline in 1642?",
+        "options": ["Gottfried Leibniz", "Blaise Pascal", "Charles Babbage", "Joseph Jacquard"],
+        "answer": "Blaise Pascal"
+    },
+    {
+        "question": "Which company introduced the USB flash drive in 2000?",
+        "options": ["SanDisk", "Kingston", "Trek 2000 (IBM marketed it)", "Sony"],
+        "answer": "Trek 2000 (IBM marketed it)"
+    },
+    {
+        "question": "What is the brain of the computer commonly called?",
+        "options": ["RAM", "Motherboard", "CPU", "GPU"],
+        "answer": "CPU"
+    },
+    {
+        "question": "In which year was ARPANET, the precursor to the Internet, launched?",
+        "options": ["1969", "1972", "1983", "1991"],
+        "answer": "1969"
+    },
+    {
+        "question": "Which language uses punch cards and was used in early IBM computers?",
+        "options": ["COBOL", "FORTRAN", "Both COBOL and FORTRAN", "BASIC"],
+        "answer": "Both COBOL and FORTRAN"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": ["HyperText Markup Language", "HyperText Markup Language", "High Transfer Markup Language", "Home Tool Markup Language"],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "question": "Which was the first mass-produced microprocessor (1971)?",
+        "options": ["Intel 4004", "Intel 8080", "Motorola 6800", "Zilog Z80"],
+        "answer": "Intel 4004"
+    },
+    {
+        "question": "Who coined the term 'Artificial Intelligence' in 1956?",
+        "options": ["Alan Turing", "John McCarthy", "Marvin Minsky", "Herbert Simon"],
+        "answer": "John McCarthy"
+    },
+    {
+        "question": "Which operating system was originally called 'Unix Time-Sharing System'?",
+        "options": ["Linux", "MS-DOS", "Unix", "macOS"],
+        "answer": "Unix"
+    },
+    {
+        "question": "What does IP stand for in networking?",
+        "options": ["Internet Provider", "Internet Protocol", "Internal Processor", "Input Port"],
+        "answer": "Internet Protocol"
+    },
+    {
+        "question": "Which company released Windows 95?",
+        "options": ["Apple", "IBM", "Microsoft", "Sun Microsystems"],
+        "answer": "Microsoft"
+    },
+    {
+        "question": "What is the maximum value of a single byte (8 bits)?",
+        "options": ["128", "255", "256", "512"],
+        "answer": "255"
+    },
+    {
+        "question": "Who invented Boolean algebra, fundamental to digital logic?",
+        "options": ["George Boole", "Claude Shannon", "John von Neumann", "Alan Turing"],
+        "answer": "George Boole"
+    },
+    {
+        "question": "Which was the first computer virus (1986) that spread via floppy disks?",
+        "options": ["ILOVEYOU", "Brain", "Melissa", "Code Red"],
+        "answer": "Brain"
+    },
+    {
+        "question": "What does GPU stand for?",
+        "options": ["General Processing Unit", "Graphics Processing Unit", "Game Processing Unit", "Global Processing Unit"],
+        "answer": "Graphics Processing Unit"
+    },
+    {
+        "question": "Which year was the first iPhone released?",
+        "options": ["2005", "2007", "2008", "2010"],
+        "answer": "2007"
+    },
+    {
+        "question": "Which company created the Java programming language?",
+        "options": ["Microsoft", "Sun Microsystems", "Oracle", "Netscape"],
+        "answer": "Sun Microsystems"
+    },
+    {
+        "question": "What does WWW stand for?",
+        "options": ["World Wide Web", "World Web Wide", "Wide World Web", "Web World Wide"],
+        "answer": "World Wide Web"
+    },
+    {
+        "question": "Which is the correct order of data size from smallest to largest?",
+        "options": ["KB < MB < GB < TB", "MB < KB < GB < TB", "GB < TB < MB < KB", "TB < GB < KB < MB"],
+        "answer": "KB < MB < GB < TB"
+    },
+    {
+        "question": "Who is credited with inventing the creation of Linux kernel in 1991?",
+        "options": ["Bill Gates", "Steve Jobs", "Linus Torvalds", "Richard Stallman"],
+        "answer": "Linus Torvalds"
+    },
+    {
+        "question": "What does the acronym 'ASCII' stand for?",
+        "options": ["American Standard Code for Information Interchange", "Advanced System Code for Internet Integration", "American System Code for Information Integration", "Automated Standard Code for Internet Interchange"],
+        "answer": "American Standard Code for Information Interchange"
+    },
+    {
+        "question": "Which was the first web browser, released in 1993?",
+        "options": ["Internet Explorer", "Netscape Navigator", "Mosaic", "Lynx"],
+        "answer": "Mosaic"
+    }
+]
